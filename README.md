@@ -205,4 +205,4 @@ Allok MOV Converter is a **full free version** with all features and updates inc
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-18 17:54:20 UTC
+**Last updated:** 2026-10-18 20:20:33 UTC
